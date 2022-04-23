@@ -84,3 +84,19 @@ It has 14 digital I/O pins, of which 6 can be used as PWM outputs and 6 analog i
 |26	|PC3	|Analog Input|
 |27	|PC4	|Analog Input|
 |28	|PC5	|Analog Input|
+# Detail Requirements
+## High Level Requirements
+
+|  ID  |  Description  |
+| ------  | ------  |
+|  HLR1  |  Knowledge of ATmega328 | 
+|  HLR2  |  Writing the code  |
+|  HLR3  |  Making the Circuit  |
+
+## Low Level Requirements
+
+|  ID  |  Description  |
+|  ------  |  ------  |
+|  LLR1  |  Knowledge of Components   |
+|  LLR2  |  Adding necessary library files for ATmega328 AVR-gcc Compiler  |
+|  LLR3  |  Implimenting circuit in Simu Ide  |
