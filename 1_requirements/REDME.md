@@ -43,3 +43,44 @@ The Atmega328 is one of the microcontroller chips that are used with the popular
 The Atmega328 has 28 pins.
 
 It has 14 digital I/O pins, of which 6 can be used as PWM outputs and 6 analog input pins. These I/O pins account for 20 of the pins.
+## ATmega328 Micro-Controller Pin Description
+The Atmega328 is a very popular microcontroller chip produced by Atmel. It is an 8-bit microcontroller that has 32K of flash memory, 1K of EEPROM, and 2K of internal SRAM.
+
+The Atmega328 is one of the microcontroller chips that are used with the popular Arduino Duemilanove boards. The Arduino Duemilanove board comes with either 1 of 2 microcontroller chips, the Atmega168 or the Atmega328. Of these 2, the Atmega328 is the upgraded, more advanced chip. Unlike the Atmega168 which has 16K of flash program memory and 512 bytes of internal SRAM, the Atmega328 has 32K of flash program memory and 2K of Internal SRAM.
+
+The Atmega328 has 28 pins.
+
+It has 14 digital I/O pins, of which 6 can be used as PWM outputs and 6 analog input pins. These I/O pins account for 20 of the pins.
+
+![](http://www.learningaboutelectronics.com/images/Atmega328-pinout.png)
+
+|Pin Number|	Description	|Function|
+|----------|---------------|--------|
+|1|	PC6	|Reset|
+|2	|PD0	|Digital Pin (RX)|
+|3	|PD1	|Digital Pin (TX)|
+|4	|PD2	|Digital Pin|
+|5	|PD3	|Digital Pin (PWM)|
+|6	|PD4	|Digital Pin|
+|7	|Vcc	|Positive Voltage (Power)|
+|8 |	GND|	Ground|
+|9	|XTAL 1|	Crystal Oscillator|
+|10	|XTAL 2	|Crystal Oscillator|
+|11	|PD5	|Digital Pin (PWM)|
+|12	|PD6|	Digital Pin (PWM)|
+|13	|PD7|	Digital Pin|
+|14	|PB0|	Digital Pin|
+|15	|PB1|	Digital Pin (PWM)|
+|16	|PB2|	Digital Pin (PWM)|
+|17	|PB3|	Digital Pin (PWM)|
+|18	|PB4|	Digital Pin|
+|19	|PB5|	Digital Pin|
+|20	|AVCC	|Positive voltage for ADC (power)|
+|21	|AREF|	Reference Voltage|
+|22	|GND	|Ground|
+|23	|PC0	|Analog Input|
+|24	|PC1	|Analog Input|
+|25	|PC2	|Analog Input|
+|26	|PC3	|Analog Input|
+|27	|PC4	|Analog Input|
+|28	|PC5	|Analog Input|
