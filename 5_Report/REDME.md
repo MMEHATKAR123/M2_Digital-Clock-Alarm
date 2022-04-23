@@ -1,5 +1,5 @@
 <h1>
-  Report<br>
+ # Report<br>
   
 # Digital Clock Alarm 
 
@@ -73,3 +73,26 @@ to archives. Instantaneous Reports are available on the current table data.
   * Installation & commissioning -
 Installation & commissioning will be completely done by supplier and All
 installation related works like electrification,casing-caping & routing of cables as per requirements, carpentry & civil work has been done by supplier with no any extra cost supplier must do arrangement of required material & items for completion of this work.
+  ## Further Development:
+* We can extend this project features by adding humidity, Air Quality display and even upgrade this into automatic light system and Visitor Counter System.
+* For displaying Humidity we can use Hygrometer 
+* For displaying Air Quality we can use Optical sensors, Metal Oxide Sesnor(To measure Nitrogen, Oxygen and Carbondioxide),Photo Ionization Sensor.
+* For Visitor Counter we can use Ultra Sonic Sensor.
+* For Automatic Light Sytem we can PIR Sensor. 
+
+## SWOT Analysis:
+* Strenghts: Count down alarm in digital clock.
+
+* Weakness: If the user enters wrong password buzzer wont go off, there is no reset option. 
+
+* Oppurtunities: Can be extended for displaying Humidity, Air Quality etc.
+
+* Threats: No major threats.
+
+## 4W's & 1H:
+* Who: Can be used by every person
+* What: For calculating countdown for Digital Alarm Clock.
+* When: Can be utilized when a person needs an alarm.
+* Where: House, Offices
+* How: By using Atmega328 and Other Components.
+
