@@ -23,4 +23,15 @@ The Atmel 8-bit AVR RISC-based microcontroller combines 32 KB ISP flash memory w
 The Atmega328 is a very popular microcontroller chip produced by Atmel. It is an 8-bit microcontroller that has 32K of flash memory, 1K of EEPROM, and 2K of internal SRAM.
 
 The Atmega328 is one of the microcontroller chips that are used with the popular Arduino Duemilanove boards. The Arduino Duemilanove board comes with either 1 of 2 microcontroller chips, the Atmega168 or the Atmega328. Of these 2, the Atmega328 is the upgraded, more advanced chip. Unlike the Atmega168 which has 16K of flash program memory and 512 bytes of internal SRAM, the Atmega328 has 32K of flash program memory and 2K of Internal SRAM.
-
+## Applications of ATmega328
+The following are the applications of atmega328 microcontroller,
+* A complete package including ATmega 328 and Arduino can be used in several different real-life applications.
+* It can be used in Embedded Systems Projects.
+* It can also be used in robotics.
+* Quad-copter and even small aero-plane can also be designed through it.
+* Power monitoring and management systems can also be prepared using this device.
+* I have designed this Home Security System using Arduino UNO, you should have a look at it.
+# Software
+The software manages various hardware devices and systems. The basic idea behind embedded systems software is to control the functioning of a set of hardware devices without compromising on the purpose or the efficiency. Embedded systems software can be compared to the operating systems in computers.
+## SimulIDE
+SimulIDE is a simple real time electronic circuit simulator, intended for hobbyist or students to learn and experiment with simple electronic circuits and microcontrollers, supporting PIC, AVR and Arduino.This is not an accurate simulator for circuit analysis, it aims to be fast, simple and easy to use, this means simple and not very accurate electronic models and limited features.
