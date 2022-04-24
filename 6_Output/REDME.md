@@ -6,4 +6,8 @@
       simulation<br>
       <h4>
       ![](https://1.bp.blogspot.com/-g0PfHcs2isw/XtlQcrj8DVI/AAAAAAAABRo/slmqFRdR6AA6sNNF59r1-NTUvEodcPH8gCLcBGAsYHQ/s320/circuit.gif)
-      
+        <br>
+        <h2>
+          Digital-Alarm-Clock-PCB<br>
+          <h4>
+          ![Digital-Alarm-Clock-using](https://user-images.githubusercontent.com/101090081/164959601-eb566af5-be73-487a-bbe6-20b16a4df413.jpg)<br>
